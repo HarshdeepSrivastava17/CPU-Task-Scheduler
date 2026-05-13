@@ -46,7 +46,6 @@ Through this project, I learned:
 * Practical use of OOP in Python
 
 ## Sample Algorithms Included
-
 ### FCFS
 
 Processes execute in the order they arrive.
