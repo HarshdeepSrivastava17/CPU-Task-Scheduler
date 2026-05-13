@@ -1,10 +1,6 @@
 # CPU-Task-Scheduler
 Python-based CPU Task Scheduler using OOP concepts implementing FCFS, Round Robin, and Priority Scheduling algorithms with task execution timing simulation.
 
-# CPU Task Scheduler
-
-A Python-based CPU Task Scheduler project built using Object-Oriented Programming (OOP) concepts. This project simulates how operating systems manage and schedule tasks using different CPU scheduling algorithms.
-
 ## Features
 
 * Take user input for multiple tasks/processes
